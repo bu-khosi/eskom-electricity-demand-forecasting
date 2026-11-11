@@ -1,0 +1,14 @@
+Feature,Importance
+Lag_24,0.40312228
+Lag_168,0.3915153
+Lag_1,0.14380714
+Hour,0.0158585
+Is_Weekend,0.01487069
+Day_of_Week,0.013961706
+Rolling_Mean_24,0.00485259
+Season_Summer,0.0035828066
+Season_Winter,0.002748434
+Day_of_Year,0.0023808884
+Rolling_Mean_168,0.0015156689
+Month,0.0011393939
+Season_Spring,0.0006446083
